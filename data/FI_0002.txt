@@ -1,0 +1,1 @@
+Content of FI_0002.txt file with id = 2.
